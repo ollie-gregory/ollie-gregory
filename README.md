@@ -29,4 +29,4 @@
 
 ### Projects
 
-- End-to-end E-Commerce relational database project from conceptual modelling to full implementation.
+- End-to-end [E-Commerce relational database project](https://github.com/ollie-gregory/E-Commerce_Database) from conceptual modelling to full implementation.
