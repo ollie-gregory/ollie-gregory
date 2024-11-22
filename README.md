@@ -26,6 +26,7 @@
 ### Research interests
 
 - Evolution of UK Government Finances.
+- Supply side immobility as a cause for inflation in the UK.
 
 ### Projects
 
