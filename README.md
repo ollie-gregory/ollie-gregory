@@ -36,6 +36,10 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 ### Data Engineering
 
+**Database Modelling**: Entity-Relationship Diagrams (ERD) and Relational Modelling.
+
+**Database Technologies**: SQL (PostgreSQL, SQLite), NoSQL (MongoDB, Neo4j).
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,gcp,firebase)](https://skillicons.dev)
 
 ## Experience
