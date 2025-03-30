@@ -2,6 +2,8 @@
 
 ## About Me
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+data+scientist.)](https://git.io/typing-svg)
+
 ## Education
 
 [<img src='./LSE_Logo.png' width=25 align="top">](https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics) **BSc Economics** - _London School of Economics_ (2022-2025)
