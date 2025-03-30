@@ -10,7 +10,7 @@
 
 ## Education
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg' width=25 align="top"> **BSc Economics**](https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics) **BSc Economics** - _London School of Economics_ (2022-2025)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg' width=25 align="top"> **BSc Economics**](https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics)  - _London School of Economics_ (2022-2025)
 
 - First Class Honours predicted.
 
@@ -40,7 +40,7 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 ## Experience
 
-[<img src='https://upload.wikimedia.org/wikipedia/en/9/95/Lloyds_bank_logo_2024.jpg' width=25 align="top">](https://www.lloydsbankinggroup.com/) **Lloyds Banking Group** - Graduate Data Scientist (From September 2025)
+[<img src='https://upload.wikimedia.org/wikipedia/en/9/95/Lloyds_bank_logo_2024.jpg' width=40 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) - Graduate Data Scientist (From September 2025)
 
 ## Projects
 
