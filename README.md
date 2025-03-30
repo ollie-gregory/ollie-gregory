@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ollie
 
-<div style=".typewriter h1 {
+<div class="typewriter" style=".typewriter h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
@@ -18,7 +18,7 @@
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange; }
-}"><p>I am a data scienctist.</p></div>
+}"><h1>I am a data scienctist.</h1></div>
 
 ## About Me
 
