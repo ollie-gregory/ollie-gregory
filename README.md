@@ -10,7 +10,7 @@
 
 ## Education
 
-[<img src='./LSE_Logo.png' width=25 align="top">](https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics) **BSc Economics** - _London School of Economics_ (2022-2025)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg' width=25 align="top"> **BSc Economics**](https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics) **BSc Economics** - _London School of Economics_ (2022-2025)
 
 - First Class Honours predicted.
 
@@ -26,11 +26,21 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 ### Data Science
 
+**Machine Learning**: Regression (Linear, LASSO), Decision Trees, Random Forests, XGBoost, Clustering (K-Means, DBSCAN), PCA.
+
+**Statistical Modelling**: Monte Carlo Simulation, Time Series Analysis (ARIMA, GARCH).
+
+**Python Libraries**: NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, Streamlit.
+
+**R Packages**: Tidyverse, Tidymodels.
+
 ### Data Engineering
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,gcp,firebase)](https://skillicons.dev)
 
 ## Experience
+
+[<img src='https://upload.wikimedia.org/wikipedia/en/9/95/Lloyds_bank_logo_2024.jpg' width=25 align="top">](https://www.lloydsbankinggroup.com/) **Lloyds Banking Group** - Graduate Data Scientist (From September 2025)
 
 ## Projects
 
