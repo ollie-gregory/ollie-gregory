@@ -1,35 +1,31 @@
-## Hi 👋 i'm Ollie
+# Hi 👋 I'm Ollie
 
-<a href="https://www.lse.ac.uk"><img src="LSE_Logo.png" width="30" height="30" style="vertical-align:middle;margin:0px 0px"></a> <a href="https://www.linkedin.com/in/oliver-gregory-198028252"><img src="LinkedIn_Logo.png" width="30" height="30" style="vertical-align:middle;margin:0px 0px"></a>
-
-## Skills and Interests
-
-- Data science and machine learning using Python and R.
-- Database systems including both SQL and noSQL.
-- Macroeconomics.
-- Econometrics and causality.
-- Monetary economics.
-- Software development.
-
-[![My Skills](https://skillicons.dev/icons?i=bash,py,r,postgres,sklearn,c,html,css,js,mongodb,figma,firebase,gcp,latex,md,heroku)](https://skillicons.dev)
+## About Me
 
 ## Education
 
-<a href="https://www.lse.ac.uk"><img src="LSE_Logo.png" width="30" height="30" style="vertical-align:middle;margin:0px 0px"></a> **BSc Economics**, LSE (2022-2025)
+[<img src='./LSE_Logo.png' width=30 style="vertical-align:middle;margin:0px 0px">](https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics) **BSc Economics** - _London School of Economics_ (2022-2025)
 
-2:1 (69%) Grade achieved in first and second year.
+- First Class Honours predicted.
 
-- Modules in advanced macroeconomics, international trade, and monetary economics and aggregate fluctuations provided a strong understanding and foundation in core fields of Economics that drive our economy.
-- Developed robust technical skills through modules in data science, machine learning and databases.
-- Excellent written and oral communication skills enhanced through Philosophy and Economic History modules.
+## Skills
 
-## Research and Projects
+### Languages I speak
 
-### Research interests
+My default settings are English (UK) and Python, but I have experience programming in R for data science and machine learning, and HTML/CSS/JavaScript for web development.
 
-- Evolution of UK Government Finances.
-- Supply side immobility as a cause for inflation in the UK.
+I am currently developing my skills in C and C++ in order to improve my understanding of low-level programming and write more performant code.
 
-### Projects
+[![My Skills](https://skillicons.dev/icons?i=py,c,r,html,css,js)](https://skillicons.dev)
 
-- End-to-end [E-Commerce relational database project](https://github.com/ollie-gregory/E-Commerce_Database) from conceptual modelling to full implementation.
+### Data Science
+
+### Data Engineering
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,gcp,firebase)](https://skillicons.dev)
+
+## Experience
+
+## Projects
+
+## Interests
