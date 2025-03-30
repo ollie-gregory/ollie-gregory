@@ -1,7 +1,5 @@
 # Hi 👋 I'm Ollie
 
-<input>
-
 ## About Me
 
 ## Education
