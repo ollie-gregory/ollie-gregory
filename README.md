@@ -1,26 +1,6 @@
 # Hi 👋 I'm Ollie
 
-<svg fill="none" viewBox="0 0 600 80" width="600" height="80" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          font-family: monospace;
-          display: flex;
-          animation: typing 4s steps(22, end) infinite;
-          white-space: nowrap;
-          overflow: hidden;
-          width: fit-content;
-        }
-        @keyframes typing {
-          from { width: 0 }
-          to { width: 100% }
-        }
-      </style>
-      <div class="container">I am a data scientist.</div>
-    </div>
-  </foreignObject>
-</svg>
+<input>
 
 ## About Me
 
