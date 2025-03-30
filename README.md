@@ -2,7 +2,8 @@
 
 ## About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+data+scientist.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=I+am+a+data+scientist.)#gh-dark-mode-only
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&width=435&lines=I+am+a+data+scientist.)#gh-light-mode-only
 
 ## Education
 
