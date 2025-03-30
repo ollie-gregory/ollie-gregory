@@ -4,18 +4,14 @@
 
 ## Education
 
-<table>
-  <tr>
-    <td width="30px">
-      <a href="https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics">
-        <img src='./LSE_Logo.png' width="30">
-      </a>
-    </td>
-    <td>
-      <strong>BSc Economics</strong> - <em>London School of Economics</em> (2022-2025)
-    </td>
-  </tr>
-</table>
+<div>
+  <a href="https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics">
+    <img src='./LSE_Logo.png' width="30" align="top">
+  </a>
+  <span style="position: relative; top: 7px;">
+    <strong>BSc Economics</strong> - <em>London School of Economics</em> (2022-2025)
+  </span>
+</div>
 
 - First Class Honours predicted.
 
