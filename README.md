@@ -11,6 +11,8 @@
 - Monetary economics.
 - Software development.
 
+[![My Skills](https://skillicons.dev/icons?i=bash,py,r,postgres,sklearn,c,html,css,js,mongodb,figma,firebase,gcp,latex,md,heroku)](https://skillicons.dev)
+
 ## Education
 
 <a href="https://www.lse.ac.uk"><img src="LSE_Logo.png" width="30" height="30" style="vertical-align:middle;margin:0px 0px"></a> **BSc Economics**, LSE (2022-2025)
