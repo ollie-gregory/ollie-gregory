@@ -40,12 +40,30 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 **Database Technologies**: SQL (PostgreSQL, SQLite), NoSQL (MongoDB, Neo4j).
 
+**Cloud Technologies**: Google Cloud Platform (GCP), Firebase.
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,gcp,firebase)](https://skillicons.dev)
 
 ## Experience
 
 [<img src='https://upload.wikimedia.org/wikipedia/en/9/95/Lloyds_bank_logo_2024.jpg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) - Graduate Data Scientist (From September 2025)
 
-## Projects
+## Public Projects
+
+[**E-Commerce Database Design**](https://github.com/ollie-gregory/E-Commerce_Database) - End-to-end SQL database design and implementation for a hypothetical E-Commerce platform.
 
 ## Interests
+
+- Machine learning for time series forecasting.
+- Data visualisation and storytelling.
+- Web development.
+
+---
+<p align="center">
+    <a href="https://skillicons.dev/icons?i=github)">
+        <img width=30 src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+    <a href="https://github.com/ollie-gregory">
+        <img width=30 src="https://skillicons.dev/icons?i=github"/>
+    </a>
+</p>
