@@ -60,7 +60,7 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 ---
 <p align="center">
-    <a href="www.linkedin.com/in/oliver-gregory-198028252">
+    <a href="https://www.linkedin.com/in/oliver-gregory-198028252">
         <img width=30 src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
     <a href="https://github.com/ollie-gregory">
