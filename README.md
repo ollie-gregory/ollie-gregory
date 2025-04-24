@@ -52,6 +52,8 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 [**E-Commerce Database Design**](https://github.com/ollie-gregory/E-Commerce_Database) - End-to-end SQL database design and implementation for a hypothetical E-Commerce platform.
 
+[**Has slower business dynamism been associated with slower productivity growth for U.S. sectors?**](https://github.com/ollie-gregory/dynamism_and_productivity_growth) - ONGOING.
+
 ## Interests
 
 - Machine learning for time series forecasting.
