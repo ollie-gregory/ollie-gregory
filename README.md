@@ -38,11 +38,11 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 **Database Modelling**: Entity-Relationship Diagrams (ERD) and Relational Modelling.
 
-**Database Technologies**: SQL (PostgreSQL, SQLite), NoSQL (MongoDB, Neo4j).
+**Database Technologies**: SQL (MySQL, PostgreSQL, SQLite), NoSQL (MongoDB, Neo4j).
 
 **Cloud Technologies**: Google Cloud Platform (GCP), Firebase.
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,gcp,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,gcp,firebase)](https://skillicons.dev)
 
 ## Experience
 
