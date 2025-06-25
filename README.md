@@ -46,7 +46,7 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 ## Experience
 
-[<img src='[https://upload.wikimedia.org/wikipedia/en/9/95/Lloyds_bank_logo_2024.jpg](https://en.wikipedia.org/wiki/Lloyds_Bank#/media/File:Lloyds_Bank_logo_2024.svg)' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) - Graduate Data Scientist (From September 2025)
+[<img src='https://upload.wikimedia.org/wikipedia/en/e/eb/Lloyds_Bank_logo_2024.svg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) - Graduate Data Scientist (From September 2025)
 
 ## Public Projects
 
