@@ -12,7 +12,7 @@
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/LSE_Logo.svg' width=30 align="center"> **BSc Economics**](https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics)  - _London School of Economics_ (2022-2025)
 
-- First Class Honours predicted.
+- First Class Honours.
 
 ## Skills
 
