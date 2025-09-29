@@ -22,7 +22,7 @@ My default settings are English (UK) and Python, but I have experience programmi
 
 I am currently developing my skills in C and C++ in order to improve my understanding of low-level programming and write more performant code.
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,r,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,r,html,css,js)](https://skillicons.dev)
 
 ### Data Science
 
