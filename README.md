@@ -46,7 +46,9 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 ## Experience
 
-[<img src='https://upload.wikimedia.org/wikipedia/en/e/eb/Lloyds_Bank_logo_2024.svg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) - Graduate Data Scientist (From September 2025)
+[<img src='https://upload.wikimedia.org/wikipedia/en/e/eb/Lloyds_Bank_logo_2024.svg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) - Data & AI Scientist.
+
+#### Quantitative Analytics Team (September 2025 - Present)
 
 ## Public Projects
 
