@@ -46,19 +46,19 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 ## Experience
 
-[<img src='https://upload.wikimedia.org/wikipedia/en/e/eb/Lloyds_Bank_logo_2024.svg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) - Data & AI Scientist.
+[<img src='https://upload.wikimedia.org/wikipedia/en/e/eb/Lloyds_Bank_logo_2024.svg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) — Data & AI Scientist.
 
 #### Quantitative Analytics Team (September 2025 - Present)
 
 ## Public Projects
 
-[**E-Commerce Database Design**](https://github.com/ollie-gregory/E-Commerce_Database) -- End-to-end SQL database design and implementation for a hypothetical E-Commerce platform.
+[**E-Commerce Database Design**](https://github.com/ollie-gregory/E-Commerce_Database) — End-to-end SQL database design and implementation for a hypothetical E-Commerce platform.
 
-[**Has slower business dynamism been associated with slower productivity growth for U.S. sectors?**](https://github.com/ollie-gregory/dynamism_and_productivity_growth) -- Research project into the relationship between business dynamism and productivity growth in the US.
+[**Has slower business dynamism been associated with slower productivity growth for U.S. sectors?**](https://github.com/ollie-gregory/dynamism_and_productivity_growth) — Research project into the relationship between business dynamism and productivity growth in the US.
 
-[**Machine Learning Algorithms From Scratch in Python and C++**](https://github.com/ollie-gregory/decision_tree_from_scratch) -- Python and C++ implementations of popular machine learning algorithms developed to deepen my understanding of the low level functioning of the algorithms and develop skills in C++.
+[**Machine Learning Algorithms From Scratch in Python and C++**](https://github.com/ollie-gregory/decision_tree_from_scratch) — Python and C++ implementations of popular machine learning algorithms developed to deepen my understanding of the low level functioning of the algorithms and develop skills in C++.
 
-[**DRIFTBASE**](https://github.com/ollie-gregory/DRIFTBASE) -- Stock market database and sentiment analysis project (ONGOING).
+[**DRIFTBASE**](https://github.com/ollie-gregory/DRIFTBASE) — Stock market database and sentiment analysis project (ONGOING).
 
 ## Interests
 
