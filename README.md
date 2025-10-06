@@ -60,6 +60,8 @@ I am currently developing my skills in C and C++ in order to improve my understa
 
 [**DRIFTBASE**](https://github.com/ollie-gregory/DRIFTBASE) — Stock market database and sentiment analysis project (ONGOING).
 
+[**Data Science Handbook**](https://github.com/ollie-gregory/data_science_handbook) – A guide through the most common ML/DL algorithms, along with the maths and intuition behind them (ONGOING).
+
 ## Interests
 
 - Machine learning for time series forecasting.
