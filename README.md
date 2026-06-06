@@ -3,10 +3,12 @@
 ## About Me
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+am+a+data+scientist.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+data+scientist.">
-  <img alt="I am a data scientist." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+data+scientist.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+am+a+quantitative+analyst.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+quantitative+analyst.">
+  <img alt="I am a quantitative analyst." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+quantitative+analyst.">
 </picture>
+
+Quantitative analyst at Lloyds Banking Group, focused on financial modelling, econometrics, and credit risk. Interested in systematic investing, macro strategies, and the application of time-series methods to financial markets problems.
 
 ## Education
 
@@ -14,59 +16,64 @@
 
 - First Class Honours.
 
+## Experience
+
+[<img src='https://upload.wikimedia.org/wikipedia/en/e/eb/Lloyds_Bank_logo_2024.svg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/)
+
+#### Quantitative Research Analyst (May 2026 – Present)
+
+Working on trade surveillance and machine learning pricing solutions within the Quantitative Research team.
+
+#### Quantitative Analytics Analyst (September 2025 – May 2026)
+
+- Built and enhanced macro-financial risk modelling frameworks, including a Moody's GCorr Macro stress testing framework and complementary credit risk correlation models using Gaussian copula and Vasicek approaches.
+- Applied advanced time series econometrics (VECM and SVAR) to model deposit behaviour, pricing dynamics, and interest rate sensitivity, supporting structural hedge sizing and balance sheet strategy.
+- Conducted end-to-end model development and validation: calibration, sensitivity analysis, and robustness testing under stressed macroeconomic scenarios.
+
 ## Skills
 
-### Languages I speak
+### Languages I Speak
 
-My default settings are English (UK) and Python, but I have experience programming in R for data science and machine learning, and HTML/CSS/JavaScript for web development.
+[![My Skills](https://skillicons.dev/icons?i=py,r,c,cpp)](https://skillicons.dev)
 
-I am currently developing my skills in C and C++ in order to improve my understanding of low-level programming and write more performant code.
+My default settings are English (UK) and Python, but I have experience programming in R for data science and machine learning, and am developing my skills in C and C++ for performance critical applications.
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,r,html,css,js)](https://skillicons.dev)
+### Quantitative Finance & Modelling
 
-### Data Science
+**Econometrics**: VECM, SVAR, cointegration analysis, ARIMA, GARCH, OLS/LASSO regression.
 
-**Machine Learning**: Regression (Linear, LASSO), Decision Trees, Random Forests, XGBoost, Clustering (K-Means, DBSCAN), PCA.
+**Credit & Risk Modelling**: Gaussian copula, Vasicek model, Monte Carlo simulation, stress testing, correlation modelling.
 
-**Statistical Modelling**: Monte Carlo Simulation, Time Series Analysis (ARIMA, GARCH).
+**Financial Markets**: Deposit modelling, interest rate sensitivity, fixed income, portfolio risk analytics.
 
-**Python Libraries**: NumPy, Pandas, Scikit-learn, Statsmodels, Matplotlib, Streamlit.
+**Machine Learning**: Decision Trees, Random Forests, XGBoost, clustering (K-Means, DBSCAN), PCA.
+
+**Python Libraries**: Numpy, Pandas, Statsmodels, Scikit-learn, Scipy, Matplotlib.
 
 **R Packages**: Tidyverse, Tidymodels.
 
 ### Data Engineering
 
-**Database Modelling**: Entity-Relationship Diagrams (ERD) and Relational Modelling.
+**Databases**: SQL (MySQL, PostgreSQL, SQLite), NoSQL (MongoDB).
 
-**Database Technologies**: SQL (MySQL, PostgreSQL, SQLite), NoSQL (MongoDB, Neo4j).
+**Cloud**: Google Cloud Platform (GCP).
 
-**Cloud Technologies**: Google Cloud Platform (GCP), Firebase.
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,gcp,firebase)](https://skillicons.dev)
-
-## Experience
-
-[<img src='https://upload.wikimedia.org/wikipedia/en/e/eb/Lloyds_Bank_logo_2024.svg' width=30 align="center"> **Lloyds Banking Group**](https://www.lloydsbankinggroup.com/) — Data & AI Scientist.
-
-#### Quantitative Analytics Team (September 2025 - Present)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,gcp)](https://skillicons.dev)
 
 ## Public Projects
 
-[**E-Commerce Database Design**](https://github.com/ollie-gregory/E-Commerce_Database) — End-to-end SQL database design and implementation for a hypothetical E-Commerce platform.
+[**Retail Deposit Elasticities**](https://github.com/ollie-gregory/retail_deposit_elasticity) — VECM framework for estimating the interest rate elasticity of UK retail deposits, identified via cointegrating money demand and Taylor rule relationships. Recovers a long-run base rate elasticity of −0.59, with a hump-shaped short-run impulse response. Proposes a product-level extension for granular rate elasticity estimation.
 
 [**Has slower business dynamism been associated with slower productivity growth for U.S. sectors?**](https://github.com/ollie-gregory/dynamism_and_productivity_growth) — Research project into the relationship between business dynamism and productivity growth in the US.
 
-[**Machine Learning Algorithms From Scratch in Python and C++**](https://github.com/ollie-gregory/decision_tree_from_scratch) — Python and C++ implementations of popular machine learning algorithms developed to deepen my understanding of the low level functioning of the algorithms and develop skills in C++.
-
-[**DRIFTBASE**](https://github.com/ollie-gregory/DRIFTBASE) — Stock market database and sentiment analysis project (ONGOING).
-
-[**Data Science Handbook**](https://github.com/ollie-gregory/data_science_handbook) – A guide through the most common ML/DL algorithms, along with the maths and intuition behind them (ONGOING).
+[**E-Commerce Database Design**](https://github.com/ollie-gregory/E-Commerce_Database) — End-to-end SQL database design and implementation for a hypothetical e-commerce platform.
 
 ## Interests
 
-- Machine learning for time series forecasting.
-- Statistics and probability.
-- Data visualisation and storytelling.
+- Macro and cross-asset quantitative strategies.
+- Fixed income and interest rate modelling.
+- Time series econometrics and systematic investing.
+- Statistical inference and probability.
 
 ---
 <p align="center">
