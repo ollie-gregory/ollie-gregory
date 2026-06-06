@@ -62,6 +62,8 @@ My default settings are English (UK) and Python, but I have experience programmi
 
 ## Public Projects
 
+[**Options Pricing Engine**](https://github.com/ollie-gregory/options-pricer) — ONGOING options pricing library to quote prices for different option varieties.
+
 [**Retail Deposit Elasticities**](https://github.com/ollie-gregory/retail_deposit_elasticity) — VECM framework for estimating the interest rate elasticity of UK retail deposits, identified via cointegrating money demand and Taylor rule relationships. Recovers a long-run base rate elasticity of −0.59, with a hump-shaped short-run impulse response. Proposes a product-level extension for granular rate elasticity estimation.
 
 [**Has slower business dynamism been associated with slower productivity growth for U.S. sectors?**](https://github.com/ollie-gregory/dynamism_and_productivity_growth) — Research project into the relationship between business dynamism and productivity growth in the US.
