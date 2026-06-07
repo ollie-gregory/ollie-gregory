@@ -3,9 +3,9 @@
 ## About Me
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+am+a+quantitative+analyst.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+quantitative+analyst.">
-  <img alt="I am a quantitative analyst." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+quantitative+analyst.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=I+am+a+data+scientist.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+data+scientist.">
+  <img alt="I am a data scientist." src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=I+am+a+data+scientist.">
 </picture>
 
 Quantitative analyst at Lloyds Banking Group, focused on financial modelling, econometrics, and credit risk. Interested in systematic investing, macro strategies, and the application of time-series methods to financial markets problems.
